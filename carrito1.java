@@ -1,6 +1,6 @@
 public class carrito1 {
     public static void main(String[] args){
-
+        System.out.println(miArreglo);
     }
     public static int randomarreglo(){
         int min=0;
